@@ -113,10 +113,19 @@ Open source licensing is under the [BSD-3-Clause](https://opensource.org/license
 ## Citation
 
 ```
-@article{tan2021msp,
-  title={{MSP}: Multi-stage prompting for making pre-trained language models better translators},
-  author={Tan, Zhixing and Zhang, Xiangwen and Wang, Shuo and Liu, Yang},
-  journal={arXiv preprint arXiv:2110.06609},
-  year={2021}
+@inproceedings{tan-etal-2022-msp,
+    title = "{MSP}: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators",
+    author = "Tan, Zhixing  and
+      Zhang, Xiangwen  and
+      Wang, Shuo  and
+      Liu, Yang",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.424",
+    doi = "10.18653/v1/2022.acl-long.424",
+    pages = "6131--6142",
 }
 ```
